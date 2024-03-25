@@ -1,0 +1,1 @@
+Enterprise Pro is a cutting-edge company management project developed using the MERN stack with TypeScript (NEXT). It follows a microservices architecture pattern, with NATS serving as the broker service for facilitating efficient communication between services. Additionally, Kubernetes is leveraged for container orchestration, ensuring scalability
